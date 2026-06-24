@@ -270,18 +270,12 @@ git checkout -b feature/your-feature-name
 
 ---
 
-## 📜 License
-
-This project is intended to be released under the **MIT License**. Add a `LICENSE` file before publishing if you want others to reuse or contribute to the project.
-
----
-
 ## 👨‍💻 Authors
 
 | Name | GitHub |
 | ---- | ------ |
-| [Hriday Shah] | [@Hridayshah18](https://github.com/Hridayshah18) |
-| [Mokshesh Sheth] | [@shethmokshesh08-jpg](https://github.com/shethmokhshesh08-jpg) |
+| Hriday Shah | [@Hridayshah18](https://github.com/Hridayshah18) |
+| Mokshesh Sheth | [@shethmokshesh08-jpg](https://github.com/shethmokshesh08-jpg) |
 ---
 
 ## 🙌 Acknowledgments
