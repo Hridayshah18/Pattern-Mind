@@ -230,13 +230,8 @@ Supporting sections render the daily challenge, score cards, cognitive map, stat
 
 ## 📸 Screenshots
 
-[Add screenshot here]
+<img width="1440" height="1200" alt="image" src="https://github.com/user-attachments/assets/69c8dedb-138d-42bf-ba70-c957cc592ab5" />
 
-Existing screenshot files in the repository:
-
-![Pattern Mind desktop screenshot](./patternmind-desktop-final.png)
-
-![Pattern Mind mobile screenshot](./patternmind-mobile.png)
 
 ---
 
@@ -285,8 +280,8 @@ This project is intended to be released under the **MIT License**. Add a `LICENS
 
 | Name | GitHub |
 | ---- | ------ |
-| [Add your name here] | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
-
+| [Hriday Shah] | [@Hridayshah18](https://github.com/Hridayshah18) |
+| [Mokshesh Sheth] | [@shethmokshesh08-jpg](https://github.com/shethmokhshesh08-jpg) |
 ---
 
 ## 🙌 Acknowledgments
@@ -297,12 +292,3 @@ This project is intended to be released under the **MIT License**. Add a `LICENS
 
 ---
 
-## ✅ Manual Edits Before Publishing
-
-* Replace `YOUR_USERNAME`
-* Add real screenshot
-* Add GitHub Pages link
-* Confirm author name
-* Confirm license
-* Test all links
-* Make sure screenshots and live demo links are not inside code blocks
