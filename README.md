@@ -237,7 +237,7 @@ Supporting sections render the daily challenge, score cards, cognitive map, stat
 
 ## 🌐 Live Demo
 
-[Play Pattern Mind here](https://YOUR_USERNAME.github.io/pattern-mind/)
+[[Play Pattern Mind here](https://YOUR_USERNAME.github.io/pattern-mind/)](https://expressit.online/games/patternmind)
 
 ---
 
